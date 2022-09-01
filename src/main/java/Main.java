@@ -1,5 +1,3 @@
-package org.example;
-
 import ServerClass.Server;
 
 public class Main {
